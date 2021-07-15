@@ -7,3 +7,4 @@ These projects were made while reading *Introduction to Java Programming* by Y. 
 * [Two-Dimensional Arrays](https://github.com/alexHampton/Java/blob/main/two_dimension_arrays.java)
 * [Array Manipulation](https://github.com/alexHampton/Java/blob/main/array_manipulation.java)
 * [Loops](https://github.com/alexHampton/Java/blob/main/loops_mortgage_calculator.java)
+* [Conditionals] (https://github.com/alexHampton/Java/blob/main/taxes.java)
